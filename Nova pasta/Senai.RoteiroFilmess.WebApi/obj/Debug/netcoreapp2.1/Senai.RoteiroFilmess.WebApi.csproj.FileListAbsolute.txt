@@ -1,0 +1,14 @@
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\bin\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.deps.json
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\bin\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.runtimeconfig.json
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\bin\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.runtimeconfig.dev.json
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\bin\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.dll
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\obj\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.csprojAssemblyReference.cache
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\obj\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\obj\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.RazorAssemblyInfo.cache
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\obj\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.RazorAssemblyInfo.cs
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\obj\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.AssemblyInfoInputs.cache
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\obj\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.AssemblyInfo.cs
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\obj\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\bin\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.pdb
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\obj\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.dll
+C:\Users\43121017870\Desktop\RoteiroFilmes\Senai.RoteiroFilmess.WebApi\Senai.RoteiroFilmess.WebApi\obj\Debug\netcoreapp2.1\Senai.RoteiroFilmess.WebApi.pdb
